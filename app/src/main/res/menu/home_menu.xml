@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/home"
+        android:contentDescription="@string/home"
+        android:title="@string/home"
+        android:icon="@drawable/home_ic"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/preventions"
+        android:title="@string/preventions"
+        android:icon="@drawable/list_ic"
+        app:showAsAction="never" />
+
+    <item
+        android:id="@+id/help"
+        android:contentDescription="@string/help"
+        android:title="@string/help"
+        android:icon="@drawable/help_ic"
+        app:showAsAction="never" />
+</menu>

@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Safe Distancing</string>
+    <string name="help">Help</string>
+    <string name="home">Home</string>
+    <string name="preventions">Preventions</string>
+    <string name="keep_safe">Keep Safe</string>
+    <string name="designated_areas_list">DESIGNATED AREAS LIST</string>
+    <string name="stay_home_nsave_lives">Stay Home Save lives</string>
+    <string name="sanitize">Sanitize</string>
+    <string name="wash_hands">Wash Hands\nwith\nrunning water</string>
+    <string name="kawangware_nairobi">: Kawangware Nairobi</string>
+    <string name="location_name">Location Name</string>
+    <string name="mask">Wear Mask\nTo\nProtect Yourself\nand\nOthers</string>
+    <string name="settings"><font fgcolor='#FFFFFF'>Settings</font></string>
+
+    <string name="permission_denied_explanation">You need to grant location permission in order to be notified when you enter a designated location.</string>
+    <string name="location_error">Location services must be enabled for the app to function effectively.</string>
+
+</resources>
